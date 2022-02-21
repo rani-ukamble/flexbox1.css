@@ -1,0 +1,12 @@
+.flexcont{
+    display: flex;
+    background-color: deepskyblue;
+}
+
+.flexcont > div{
+    
+    background-color: rgb(242, 248, 250);
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
